@@ -6,9 +6,9 @@ import UIKit
  * Students
  * Teachers
  * Schools
- But you’ll need to be careful! Some of this data might be nil.
- After all, what’s the hair color of a bald teacher?
 */
+/*:But you’ll need to be careful! Some of this data might be nil. After all, what’s the hair color of a bald teacher?
+ */
 //: ### Students and Teachers
 /*: 1. Let’s get started by building the model for the Student. Create a new struct named Student. Add a **name** property of type String and a **favoriteTeacherIDproperty** of type Int.
 
